@@ -3,15 +3,32 @@ body{
     margin: 20px;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
+}
+
+#novo-produto-bnt{
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#produto-tabela{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
 }
 
 #produto-lista {
   margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-#produto-forma{
+#produto-forma {
   margin-top: 20px;
   display: none;
 }
