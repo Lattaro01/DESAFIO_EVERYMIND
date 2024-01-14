@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#produto-lista {
+  margin-top: 20px;
+}
+
+#produto-forma{
+  margin-top: 20px;
+  display: none;
+}

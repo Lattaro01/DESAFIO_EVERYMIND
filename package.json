@@ -1,0 +1,16 @@
+{
+  "name": "desafio_everymind",
+  "version": "1.0.0",
+  "description": " API for desafio_everymind",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": " Italo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.7.0"
+  }
+}
